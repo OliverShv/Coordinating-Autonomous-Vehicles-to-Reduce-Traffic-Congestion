@@ -1,0 +1,2 @@
+OSM map test lauch code
+py -3.7 config.py --osm-path="C:/WindowsNoEditor/PythonAPI/examples/architectures/maps/osm_maps/test.osm"
